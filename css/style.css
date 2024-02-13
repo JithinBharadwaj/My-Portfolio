@@ -1113,9 +1113,10 @@ section{
     }
 
     .row img {
-        width: 100%;
+        width: 143px;
+        height: 193px;
         padding: 10px;
-        margin-left: -17px;
+        margin-left: -19px;
     }
     .layer h5 {
         color: #000;
